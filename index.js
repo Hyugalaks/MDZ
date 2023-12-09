@@ -35,7 +35,7 @@ function title() {
       console.clear()
       console.log(chalk.yellow(`\n\n               ${chalk.bold.yellow(`[ ${botname} ]`)}\n\n`))
       console.log(color(`< ================================================== >`, 'cyan'))
-	console.log(color(`\n${themeemoji} YT CHANNEL: FallXD425`,'magenta'))
+	console.log(color(`\n${themeemoji} YT CHANNEL: `,'magenta'))
 console.log(color(`${themeemoji} GITHUB: FallEzz `,'magenta'))
 console.log(color(`${themeemoji} WA NUMBER: ${owner}`,'magenta'))
 console.log(color(`${themeemoji} CREDIT: ${wm}\n`,'magenta'))
@@ -167,7 +167,7 @@ XeonBotInc.sendMessage(anu.id,
  mentionedJid:[num],
  "externalAdReply": {"showAdAttribution": true,
  "containsAutoReply": true,
- "title": ` ${global.botname}`,
+ "title": `${global.botname}`,
 "body": `${ownername}`,
  "previewType": "PHOTO",
 "thumbnailUrl": ``,
@@ -196,7 +196,7 @@ XeonBotInc.sendMessage(anu.id,
  mentionedJid:[num],
  "externalAdReply": {"showAdAttribution": true,
  "containsAutoReply": true,
- "title": ` ${global.botname}`,
+ "title": `${global.botname}`,
 "body": `${ownername}`,
  "previewType": "PHOTO",
 "thumbnailUrl": ``,
@@ -232,7 +232,7 @@ XeonBotInc.sendMessage(anu.id,
  mentionedJid:[num],
  "externalAdReply": {"showAdAttribution": true,
  "containsAutoReply": true,
- "title": ` ${global.botname}`,
+ "title": `${global.botname}`,
 "body": `${ownername}`,
  "previewType": "PHOTO",
 "thumbnailUrl": ``,
